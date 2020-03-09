@@ -1,0 +1,7 @@
+//HUOM! En käyttänyt Gitiä versionhallintaan, mutta latasin "valmiin" harjoituksen GitHubiin. (Ensin vahingossa saatteella "zxcsxcs", kuten lokista näkyy....
+//https://github.com/PennaPenna/ohj2harjtyo
+
+ff0acf7 (HEAD -> master, origin/master) harjoitustyö githubiin 2/2
+cdb6861 Harjoitustyö gitHubiin
+0160ed7 Revert "zxcsxcs"
+3e6681c zxcsxcs
