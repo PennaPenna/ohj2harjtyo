@@ -18,7 +18,7 @@
 		<li><c:out value="${album.albumId}"/>&nbsp;<c:out value="${album.title}"/></li>
 		</c:forEach>
 	</ul>
-	<p><a class="artist" href="/music"> < Back to artists</a></p>
+	<p><a class="artist" href="/music">Back to artists</a></p>
 	</div>
 </body>
 </html>
