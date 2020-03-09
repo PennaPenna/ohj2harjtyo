@@ -1,0 +1,39 @@
+/* MUSIC */
+.container {
+	max-width: 550px;
+	border-radius:5px;
+	margin: 0 auto;
+	font-family: Arial, sans-serif;
+    color:white;
+	font-size: 1.2em;
+	padding: 30px;
+	background-color:#84b8c7;
+    box-shadow: 8px 15px #5d819b;
+}
+a.artist {
+    color: white;
+    text-decoration: none;
+}
+a.artist:hover {
+    opacity: 60%;
+}
+
+a.delete {
+    color: #cb3775;
+    font-size: 1em;
+    text-decoration: none;
+    font-weight: 600;	
+    float:right;
+}
+a.delete:hover {
+    color: #f272a7;
+}
+li{
+	list-style:none;
+	padding:8px 5px;
+    border-bottom:solid 1px;
+}
+ul{
+    padding:0px;
+     
+}
